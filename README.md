@@ -2,9 +2,6 @@
 [![Open in Visual Studio Code](https://classroom.github.com/assets/open-in-vscode-718a45dd9cf7e7f842a935f5ebbe5719a5e09af4491e668f4dbf3b35d5cca122.svg)](https://classroom.github.com/online_ide?assignment_repo_id=15193128&assignment_repo_type=AssignmentRepo)
 # SE-Assignment-2
 Assignment: Introduction to Software Engineering
-sss
-
-
 
 Answer the following questions based on your understanding of software engineering concepts. Provide detailed explanations and examples where appropriate.
 
@@ -12,7 +9,13 @@ Questions:
 Define Software Engineering:
 
 # Answer 
+Software engineering is a systematic and disciplined approach to designing, developing, and maintaining software systems. It involves applying engineering principles, methods, and best practices to ensure software quality, reliability, and efficiency. Software engineering differs from traditional programming in the following ways:
 
+Structured Approach: Software engineering follows a structured and organized process, whereas traditional programming is often ad-hoc and less structured.
+Emphasis on Design: Software engineering places a strong emphasis on the design phase, ensuring that the software architecture and components are well-planned before implementation.
+Team Collaboration: Software engineering typically involves collaborating with teams, including designers, developers, testers, and project managers, whereas traditional programming is often done individually.
+Documentation: Software engineering requires extensive documentation, including requirements, design specifications, and maintenance manuals, which is often lacking in traditional programming.
+Quality Assurance: Software engineering incorporates rigorous testing and quality assurance practices to ensure the software meets specified requirements and standards.
 What is software engineering, and how does it differ from traditional programming?
 Software Development Life Cycle (SDLC):
 
