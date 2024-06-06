@@ -190,6 +190,4 @@ Some recommended resources for further reading and reference include:
 - IEEE Software Engineering Standards
 - Publications and guidelines from professional organizations like the IEEE Computer Society, ACM, and others.
 
-Provide real-world examples or case studies wherever possible.
-Cite any references or sources you use in your answers.
-Submit your completed assignment by [due date].
+
