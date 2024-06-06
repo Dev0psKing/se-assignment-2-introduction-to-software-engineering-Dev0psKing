@@ -17,7 +17,7 @@ Team Collaboration: Software engineering typically involves collaborating with t
 Documentation: Software engineering requires extensive documentation, including requirements, design specifications, and maintenance manuals, which is often lacking in traditional programming.
 Quality Assurance: Software engineering incorporates rigorous testing and quality assurance practices to ensure the software meets specified requirements and standards.
 What is software engineering, and how does it differ from traditional programming?
-Software Development Life Cycle (SDLC):
+
 
 Explain the various phases of the Software Development Life Cycle. Provide a brief description of each phase.
 Agile vs. Waterfall Models:
