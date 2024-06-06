@@ -5,10 +5,10 @@ Assignment: Introduction to Software Engineering
 
 Answer the following questions based on your understanding of software engineering concepts. Provide detailed explanations and examples where appropriate.
 
-Questions:
+### Questions:
 Define Software Engineering:
 
-# Answer 
+### Answer 
 Software engineering is a systematic and disciplined approach to designing, developing, and maintaining software systems. It involves applying engineering principles, methods, and best practices to ensure software quality, reliability, and efficiency. Software engineering differs from traditional programming in the following ways:
 
 Structured Approach: Software engineering follows a structured and organized process, whereas traditional programming is often ad-hoc and less structured.
