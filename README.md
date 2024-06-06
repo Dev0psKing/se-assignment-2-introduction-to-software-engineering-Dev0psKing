@@ -101,9 +101,11 @@ Testing is a crucial activity in software development that aims to ensure the qu
 
 2. **Integration Testing**: Integration testing focuses on testing the interactions and interfaces between different units or components of the software. It verifies that the integrated components work together correctly and as intended.
 
-3. **System Testing**: System testing involves testing the entire software system as a whole, including all integrated components and their interactions with external systems or interfaces. It ensures that the
+3. **System Testing**: System testing involves testing the entire software system as a whole, including all integrated components and their interactions with external systems or interfaces. It ensures that the system meets the specified functional and non-functional requirements.
 
-Your answers should be well-structured, concise, and to the point.
+4. **Acceptance Testing:**:
+Your answers should be well-struAcceptance testing is typically performed by end-users or stakeholders to validate that the software meets their requirements and expectations. It simulates real-world scenarios and ensures the software is ready for deployment.ctured, concise, and to the point.
+
 Provide real-world examples or case studies wherever possible.
 Cite any references or sources you use in your answers.
 Submit your completed assignment by [due date].
