@@ -3,6 +3,7 @@
 # SE-Assignment-2
 Assignment: Introduction to Software Engineering
 
+
 Answer the following questions based on your understanding of software engineering concepts. Provide detailed explanations and examples where appropriate.
 
 # Software Engineering Q&A
